@@ -1,2 +1,2 @@
 # fssreg
-Swim School Registration app
+Swim School Registration, Scheduling and Payment app
